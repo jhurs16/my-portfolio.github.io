@@ -1,1 +1,1 @@
-# my-portfolio.github.io
+# jhurs-portfolio.github.io
